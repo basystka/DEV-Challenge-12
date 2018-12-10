@@ -62,7 +62,7 @@ header {
     header nav .logo {
       display: block;
       float: left;
-      background: url(../img/logo.png) 0px 0px no-repeat;
+      background: url(../img/Logo.png) 0px 0px no-repeat;
       padding-top: 74px;
       width: 300px;
       text-indent: -9999px; }
